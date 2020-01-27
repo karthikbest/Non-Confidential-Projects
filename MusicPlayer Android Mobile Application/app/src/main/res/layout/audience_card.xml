@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvAudienceList"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/txtuserId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp" />
+
+        <TextView
+            android:id="@+id/txtFirstName"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp" />
+        <TextView
+            android:id="@+id/txtLastName"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp" />
+        <TextView
+            android:id="@+id/txtLastUsedApp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="1dp"
+            android:text="dummy"/>
+        <TextView
+            android:id="@+id/txtRating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
