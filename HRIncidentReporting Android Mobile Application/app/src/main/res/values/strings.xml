@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">HR-Incident Reporting</string>
+    <string name="menu_item_one">Report Incident</string>
+    <string name="menu_item_two">View Incidents</string>
+    <string name="hr_incident_reporting">HR Incident Reporting</string>
+    <string name="incident_id">Incident Id</string>
+    <string name="incident_date">Incident Date</string>
+    <string name="employee_number">Employee Number</string>
+    <string name="enter_employee_number_here">Enter employee number here</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="department">Department</string>
+    <string name="position">Position</string>
+    <string name="incident_type">Incident Type</string>
+    <string name="injured_body_part">Injured Body Part</string>
+    <string name="report_incident">Report Incident</string>
+    <string-array name="shifts">
+        <item>Shift A</item>
+        <item>Shift B</item>
+        <item>Shift C</item>
+    </string-array>
+    <string-array name="incident_type">
+        <item>Near Miss</item>
+        <item>First Aid</item>
+        <item>Medical Aid</item>
+    </string-array>
+
+    <string-array name="body_parts">
+        <item>Ankle-left</item>
+        <item>Ankle-right</item>
+        <item>Arm-Both</item>
+        <item>Arm-Left Upper</item>
+        <item>Arm-Right Upper</item>
+        <item>Back-All</item>
+        <item>Back-Lower</item>
+        <item>Back-Middle</item>
+        <item>Back-Upper</item>
+        <item>Chest</item>
+        <item>Ear-Both</item>
+        <item>Ear-left</item>
+        <item>Ear-Right</item>
+        <item>Ears-Both</item>
+        <item>Elbow-Left</item>
+        <item>Elbow-Right</item>
+        <item>Eye-both</item>
+        <item>Eye-left</item>
+        <item>Eye-right</item>
+        <item>Face</item>
+        <item>Feet-Both</item>
+        <item>Foot-left</item>
+        <item>Foot-right</item>
+        <item>Forearm-left</item>
+        <item>Forearm-right</item>
+        <item>Hand-left</item>
+        <item>Hand-Palm-Left</item>
+        <item>Hand-Palm-right</item>
+        <item>Hand-right</item>
+        <item>Hands-Both</item>
+        <item>Head-Rear</item>
+        <item>Head-Front</item>
+        <item>Head-Left</item>
+        <item>Head-Right</item>
+        <item>Hip-Left</item>
+        <item>Hip-Right</item>
+        <item>Index Finger-left</item>
+        <item>Index Finger-right</item>
+        <item>Knee-left</item>
+        <item>Knee-right</item>
+        <item>Leg-Both</item>
+        <item>Leg-Left Lower</item>
+        <item>Leg-Left Upper</item>
+        <item>Leg-Right Lower</item>
+        <item>Leg-Right Upper</item>
+        <item>Middle Finger-left</item>
+        <item>Middle Finger-right</item>
+        <item>Mouth</item>
+        <item>Neck</item>
+        <item>Nose</item>
+        <item>Pinky Finger-left</item>
+        <item>Pinky Finger-right</item>
+        <item>Ring Finger-left</item>
+        <item>Ring Finger-right</item>
+        <item>Shoulder-Right</item>
+        <item>Shoulder-Left</item>
+        <item>Thumb-left</item>
+        <item>Thumb-right</item>
+        <item>Wrist-Left</item>
+        <item>Wrist-Right</item>
+        <item>Other-See Notes</item>
+        <item>Groin</item>
+        <item>Abdomen</item>
+        <item>N/A</item>
+        <item>Internal</item>
+    </string-array>
+</resources>

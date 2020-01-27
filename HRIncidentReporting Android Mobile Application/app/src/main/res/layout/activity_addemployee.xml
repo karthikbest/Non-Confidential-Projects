@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Employee"
+        android:textColor="@color/colorTitle"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textAlignment="center" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:orientation="horizontal"
+        android:fitsSystemWindows="true"
+        android:clipToPadding="true">
+
+        <TextView
+            style="?android:attr/textAppearanceMedium"
+            android:text="Employee Name :"
+            android:textAlignment="textEnd"
+            android:layout_gravity="end"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/ETName"
+            style="?android:attr/textAppearanceMedium"
+            android:hint="Employee Name"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="Department :"
+            android:textAlignment="textEnd" />
+
+        <EditText
+            android:id="@+id/ETDepartment"
+            style="?android:attr/textAppearanceMedium"
+            android:hint="Department"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="?android:attr/textAppearanceMedium"
+            android:text="Position :"
+            android:textAlignment="textEnd"
+            android:layout_gravity="end"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/ETPosition"
+            style="?android:attr/textAppearanceMedium"
+            android:hint="Position"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="?android:attr/textAppearanceMedium"
+            android:text="Gender :"
+            android:textAlignment="textEnd"
+            android:layout_gravity="end"
+            android:layout_width="100dp"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="2.5dp"/>
+
+        <RadioGroup
+            android:orientation="horizontal"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2.5dp">
+
+            <RadioButton
+                android:id="@+id/RBMale"
+                style="?android:attr/textAppearanceMedium"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/RBFemale"
+                style="?android:attr/textAppearanceMedium"
+                android:text="Female"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content" />
+
+        </RadioGroup>
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/btnAddEmployee"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="Add Employee"
+        android:textAllCaps="false"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/colorButtonText"
+        android:textSize="15sp" />
+
+</LinearLayout>

@@ -1,0 +1,60 @@
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\solid_000\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\solid_000\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Karthik_College\Desktop\COURSES\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Karthik_College\Desktop\COURSES\1ST SEM\PROG8010 SOFTWARE DEVELOPMENT\Student code\week6\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!--Text view to display the title of the screen-->
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:textSize="20dp"
+        android:text="@string/hr_incident_reporting"
+        android:textColor="@color/colorTitle"
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text view to display the Incident id label-->
+    <TextView
+        android:id="@+id/txtId"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtTitle"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/txtIncidentIdValue"
+        android:text="@string/incident_id"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text view to display the Incident id's auto generated value-->
+    <TextView
+        android:id="@+id/txtIncidentIdValue"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/colorValues"
+        android:hint="@string/incident_id"
+        android:layout_alignTop="@id/txtTitle"
+        android:layout_toEndOf="@id/txtId"
+        android:layout_toRightOf="@id/txtId"
+        android:layout_marginLeft="53dp" />
+
+    <!--Text view to display the Incident date label-->
+    <TextView
+        android:id="@+id/txtIncidentDate"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtId"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:labelFor="@id/txtPresentDate"
+        android:text="@string/incident_date"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text view to display the Incident id's auto generated value-->
+    <TextView
+        android:id="@+id/txtPresentDate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/colorValues"
+        android:hint="Date"
+        android:layout_alignTop="@id/txtIncidentIdValue"
+        android:layout_toEndOf="@id/txtIncidentDate"
+        android:layout_toRightOf="@id/txtIncidentDate"
+        android:layout_marginLeft="53dp" />
+
+    <!--Text view to display the Employee Number label-->
+    <TextView
+        android:id="@+id/txtEmployeeNumber"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtIncidentDate"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="32dp"
+        android:labelFor="@id/edtEmployeeNumber"
+        android:text="@string/employee_number"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text box to enter employee number-->
+    <EditText
+        android:id="@+id/edtEmployeeNumber"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/enter_employee_number_here"
+        android:inputType="text"
+        android:textSize="15dp"
+        android:textColor="@color/colorLabels"
+        android:layout_toEndOf="@id/txtEmployeeNumber"
+        android:layout_alignTop="@id/txtPresentDate"
+        android:layout_toRightOf="@id/txtEmployeeNumber"
+        android:layout_marginLeft="9dp" />
+
+    <!--Text view to display the Employee Number label-->
+    <TextView
+        android:id="@+id/txtEmployeeName"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtEmployeeNumber"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="32dp"
+        android:labelFor="@id/edtEmployeeName"
+        android:text="@string/employee_name"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text box to enter employee number-->
+    <EditText
+        android:id="@+id/edtEmployeeName"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/employee_name"
+        android:inputType="text"
+        android:textSize="15dp"
+        android:textColor="@color/colorLabels"
+        android:layout_toEndOf="@id/txtEmployeeName"
+        android:layout_alignTop="@id/edtEmployeeNumber"
+        android:layout_toRightOf="@id/txtEmployeeName"
+        android:layout_marginLeft="9dp" />
+
+    <!--Text view to display the gender label-->
+    <TextView
+        android:id="@+id/txtGender"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtEmployeeName"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/rdGender"
+        android:text="@string/gender"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Radio buttons for gender-->
+    <RadioGroup
+        android:id="@+id/rdGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_toEndOf="@+id/txtGender"
+        android:layout_alignTop="@+id/edtEmployeeName"
+        android:layout_marginLeft="50dp"
+        android:layout_toRightOf="@+id/txtGender">
+        <RadioButton
+            android:id="@+id/rdMale"
+            android:layout_marginStart="15dp"
+            android:text="@string/male"
+            android:textColor="@color/colorLabels"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp" />
+        <RadioButton
+            android:id="@+id/rdFemale"
+            android:layout_marginStart="15dp"
+            android:text="@string/female"
+            android:textColor="@color/colorLabels"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp" />
+    </RadioGroup>
+
+    <!--Text view to display the shift label-->
+    <TextView
+        android:id="@+id/txtShift"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtGender"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/spnShift"
+        android:text="Shift"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Spinner to display the dropdown list for shift-->
+    <Spinner
+        android:id="@+id/spnShift"
+        android:layout_width="140dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="42dp"
+        android:layout_toRightOf="@+id/txtShift"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorLabels"
+        android:layout_alignTop="@+id/rdGender"
+        android:layout_marginLeft="55dp" />
+
+    <!--Text view to display the department label-->
+    <TextView
+        android:id="@+id/txtDepartment"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtShift"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/edtDepartment"
+        android:text="@string/department"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text box to display department - auto filled from the database based on the employee number -->
+    <EditText
+        android:id="@+id/edtDepartment"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/department"
+        android:inputType="text"
+        android:textSize="15dp"
+        android:textColor="@color/colorLabels"
+        android:layout_toEndOf="@id/txtDepartment"
+        android:layout_alignTop="@id/spnShift"
+        android:layout_toRightOf="@id/txtDepartment"
+        android:layout_marginLeft="9dp" />
+
+    <!--Text view to display the position-->
+    <TextView
+        android:id="@+id/txtPosition"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtDepartment"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="32dp"
+        android:labelFor="@id/edtPosition"
+        android:text="@string/position"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Text box to display position - auto filled from the database based on the employee number -->
+    <EditText
+        android:id="@+id/edtPosition"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/position"
+        android:inputType="text"
+        android:textSize="15dp"
+        android:textColor="@color/colorLabels"
+        android:layout_toEndOf="@id/txtPosition"
+        android:layout_alignTop="@id/edtDepartment"
+        android:layout_toRightOf="@id/txtPosition"
+        android:layout_marginLeft="9dp" />
+
+    <!--Text view to display the Incident Type label-->
+    <TextView
+        android:id="@+id/txtIncidentType"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtPosition"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/spnIncidentType"
+        android:text="@string/incident_type"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Spinner to display the dropdown list for incident type-->
+    <Spinner
+        android:id="@+id/spnIncidentType"
+        android:layout_width="150dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="53dp"
+        android:layout_toRightOf="@+id/txtIncidentType"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorLabels"
+        android:layout_alignTop="@+id/edtPosition"
+        android:layout_marginLeft="55dp" />
+
+    <!--Text view to display the Injured Body Part label-->
+    <TextView
+        android:id="@+id/txtInjuredBodyPart"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/txtIncidentType"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:labelFor="@id/spnInjuredBodyPart"
+        android:text="@string/injured_body_part"
+        android:textColor="@color/colorLabels"
+        android:layout_marginLeft="30dp" />
+
+    <!--Spinner to display the dropdown list for injured body part list-->
+    <Spinner
+        android:id="@+id/spnInjuredBodyPart"
+        android:layout_width="190dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="40dp"
+        android:layout_toRightOf="@+id/txtInjuredBodyPart"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorLabels"
+        android:layout_alignTop="@+id/spnIncidentType"
+        android:layout_marginLeft="55dp" />
+
+    <!--Button - Report Incident - Captures picture of incdent and saves the details to DB-->
+    <Button
+        android:id="@+id/btnGetEmployeeData"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txtInjuredBodyPart"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button"
+        android:text="Get Employee Data"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorButtonText"
+        android:textSize="15sp" />
+
+    <!--Button - Report Incident - Captures picture of incident and saves the details to DB-->
+    <Button
+        android:id="@+id/btnReportIncident"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txtInjuredBodyPart"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/button"
+        android:text="@string/report_incident"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorButtonText"
+        android:textSize="15sp" />
+
+</RelativeLayout>
