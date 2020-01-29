@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2b95123-262c-4f0a-a8e3-349d144e8304" name="Server" url="http://localhost/5daCompanyDatabaseandDependencyInjection_final">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\5daCompanyDatabaseandDependencyInjection_final" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

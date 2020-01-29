@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708ea4a8-b890-4b7c-be80-bd8da5e4c1bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mt_employees/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="311" lean-forward="true" selection-start-line="311" selection-end-line="311" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="27" selection-start-line="146" selection-start-column="27" selection-end-line="146" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mt_model/mt_database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/company_with_foreignkeyconstraints.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mt_departments_manager/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="70" column="58" selection-start-line="70" selection-start-column="58" selection-end-line="70" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ERRORS/errors.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oran</find>
+      <find>orange</find>
+      <find>email</find>
+      <find>yes</find>
+      <find>conf</find>
+      <find>add_action</find>
+      <find>subaction_add</find>
+      <find>delete_action</find>
+      <find>DELETE</find>
+      <find>delete</find>
+      <find>edit</find>
+      <find>editconf</find>
+      <find>input</find>
+      <find>BELOW</find>
+      <find>ADD</find>
+      <find>text</find>
+      <find>b</find>
+      <find>read</find>
+      <find>ADD DEPAR</find>
+      <find>error</find>
+      <find>span</find>
+      <find>character</find>
+      <find>Number</find>
+      <find>Character</find>
+      <find>number</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/toyshop.sql" />
+        <option value="$PROJECT_DIR$/product_manager/product_list.php" />
+        <option value="$PROJECT_DIR$/product_manager/index.php" />
+        <option value="$PROJECT_DIR$/product_manager/product_add.php" />
+        <option value="$PROJECT_DIR$/model/database.php" />
+        <option value="$PROJECT_DIR$/mt_employees/delete_employee.php" />
+        <option value="$PROJECT_DIR$/mt_departments_manager/mt_department_list.php" />
+        <option value="$PROJECT_DIR$/mt_employees/mt_employee_list.php" />
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/mt_employees/employees_add.php" />
+        <option value="$PROJECT_DIR$/mt_model/delete_employee.php" />
+        <option value="$PROJECT_DIR$/mt_model/mt_database.php" />
+        <option value="$PROJECT_DIR$/ERRORS/errors.php" />
+        <option value="$PROJECT_DIR$/mt_model/mt_employee_db.php" />
+        <option value="$PROJECT_DIR$/mt_model/mt_dept_db.php" />
+        <option value="$PROJECT_DIR$/company_with_foreignkeyconstraints.sql" />
+        <option value="$PROJECT_DIR$/mystyle.css" />
+        <option value="$PROJECT_DIR$/view/header.php" />
+        <option value="$PROJECT_DIR$/view/footer.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/mt_departments_manager/index.php" />
+        <option value="$PROJECT_DIR$/mt_employees/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="XAMPP SERVER" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+              <item name="ERRORS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+              <item name="mt_departments_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+              <item name="mt_employees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+              <item name="mt_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5daCompanyDatabaseandDependencyInjection_final" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js01" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\5daWORKING\mt_model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php (1)">
+    <configuration name="employees_add.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/5daCompanyDatabaseandDependencyInjection_final/mt_employees/employees_add.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mt_employees/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/product_manager/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php (1)" />
+        <item itemvalue="JavaScript Debug.employees_add.php" />
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708ea4a8-b890-4b7c-be80-bd8da5e4c1bf" name="Default Changelist" comment="" />
+      <created>1549316650460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549316650460</updated>
+      <workItem from="1549316652011" duration="4006000" />
+      <workItem from="1549371029553" duration="628000" />
+      <workItem from="1549390371206" duration="1186000" />
+      <workItem from="1549401424479" duration="17000" />
+      <workItem from="1549503931825" duration="18000" />
+      <workItem from="1549504047936" duration="275000" />
+      <workItem from="1549511957214" duration="66000" />
+      <workItem from="1551651492504" duration="1682000" />
+      <workItem from="1551654000960" duration="35000" />
+      <workItem from="1551921978738" duration="5072000" />
+      <workItem from="1551927098671" duration="57000" />
+      <workItem from="1552568913536" duration="693000" />
+      <workItem from="1553613049477" duration="1238000" />
+      <workItem from="1553616704958" duration="1915000" />
+      <workItem from="1553735802219" duration="2262000" />
+      <workItem from="1553778437844" duration="2160000" />
+      <workItem from="1554159313583" duration="1313000" />
+      <workItem from="1554387323590" duration="982000" />
+      <workItem from="1554746908020" duration="588000" />
+      <workItem from="1562162576310" duration="366000" />
+      <workItem from="1562768980233" duration="2077000" />
+      <workItem from="1562771601633" duration="62000" />
+      <workItem from="1562771756226" duration="8521000" />
+      <workItem from="1562781880839" duration="695000" />
+      <workItem from="1562784490617" duration="294000" />
+      <workItem from="1563917220701" duration="11863000" />
+      <workItem from="1563964935156" duration="1583000" />
+      <workItem from="1564006985763" duration="5591000" />
+      <workItem from="1564044091725" duration="1589000" />
+      <workItem from="1564052122232" duration="6865000" />
+      <workItem from="1564061873829" duration="763000" />
+      <workItem from="1564062702940" duration="55000" />
+      <workItem from="1564424447871" duration="13125000" />
+      <workItem from="1564487011628" duration="27603000" />
+      <workItem from="1564568854144" duration="33900000" />
+      <workItem from="1564663424566" duration="645000" />
+      <workItem from="1565472986288" duration="46022000" />
+      <workItem from="1565731760191" duration="10495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196307000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972826" visible="true" weight="0.27609682" />
+      <window_info id="Structure" order="1" sideWeight="0.5027174" side_tool="true" weight="0.33509833" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24949698" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/product_manager/index.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mt_employees/index.php</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>delete_product</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/product_manager/product_list.php" />
+    <entry file="file://$PROJECT_DIR$/product_manager/product_add.php" />
+    <entry file="file://$PROJECT_DIR$/model/database.php" />
+    <entry file="file://$PROJECT_DIR$/model/product_db.php" />
+    <entry file="file://$PROJECT_DIR$/mt_model/mt-database.php" />
+    <entry file="file://$PROJECT_DIR$/model/category_db.php" />
+    <entry file="file://$PROJECT_DIR$/product_manager/index.php" />
+    <entry file="file://$PROJECT_DIR$/toyshop5a.sql" />
+    <entry file="file://$PROJECT_DIR$/mt_employees/mt_employee_list.php" />
+    <entry file="file://$PROJECT_DIR$/ERROR.txt" />
+    <entry file="file://$PROJECT_DIR$/mt_departments_manager/mt_department_list.php" />
+    <entry file="file://$PROJECT_DIR$/company.sql" />
+    <entry file="file://$PROJECT_DIR$/mt_employees/employees_add.php" />
+    <entry file="file://$PROJECT_DIR$/mt_model/delete_employee.php" />
+    <entry file="file://$PROJECT_DIR$/mt_model/mt_dept_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mt_model/mt_employee_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="27" selection-start-line="146" selection-start-column="27" selection-end-line="146" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mt_model/mt_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ERRORS/errors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company_with_foreignkeyconstraints.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mt_departments_manager/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="70" column="58" selection-start-line="70" selection-start-column="58" selection-end-line="70" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mt_employees/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="311" lean-forward="true" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
