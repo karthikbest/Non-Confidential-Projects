@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\quizBackend.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "quizBackend",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

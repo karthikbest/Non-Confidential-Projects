@@ -1,0 +1,30 @@
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.deps.json
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.runtimeconfig.json
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.runtimeconfig.dev.json
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.dll
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.csproj.CoreCompileInputs.cache
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorAssemblyInfo.cache
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorAssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.AssemblyInfoInputs.cache
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.AssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.pdb
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.dll
+C:\Users\Karthik_College\Desktop\COURSES\projects\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.pdb
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.deps.json
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.runtimeconfig.json
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.runtimeconfig.dev.json
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.dll
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\quizBackend.pdb
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorAssemblyInfo.cache
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorAssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.AssemblyInfoInputs.cache
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.AssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.dll
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.1\quizBackend.pdb
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Karthik_College\Desktop\New folder (2)\COURSES\projects\Quiz\PrivateReposQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
