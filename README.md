@@ -3,4 +3,4 @@ Hello !. This is a repository for the source code of my non-confidential project
 Regards, Karthik.
 
 To Play my brick web game use the following URL:
-http://karthikbrickgame.z9.web.core.windows.net
+https://karthikbrickgame.z9.web.core.windows.net
