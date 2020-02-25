@@ -20,62 +20,77 @@
 <body>
     <header>
         <img id="#logo" src="~/images/medical.jpg" height="100" style="padding-left:46%" />
-        <h1 id="#sitetitle" style="text-align:center"> Hospital Management Application</h1>
+        <h2 id="#sitetitle" style="text-align:center"> Hospital Management Application</h2>
 
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Conestoga Clinic</a>*@
-                @*<button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Conestoga Clinic</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>*@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <partial name="_LoginPartial" />
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="KACountry" asp-action="Index">Countries</a>
-                        </li>
                         @*<li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="KAConcentrationUnit" asp-action="Index">Concentrations</a>
-                        </li>
+            <a class="nav-link text-dark" asp-area="" asp-controller="KACountry" asp-action="Index">Countries</a>
+        </li>*@
+
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                        @if (User.IsInRole("administrators"))
+                        {
+
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="KADiagnosisCategories" asp-action="Index">Diagnosis Categories</a>
+                            <a class="nav-link text-dark" asp-controller="KARole" asp-action="Index">
+                                Admin Panel
+                            </a>
                         </li>
+
+                        }
+
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="KAMedicationTypes" asp-action="Index">Medication</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="KAPatientDiagnosis" asp-action="Index">Patient Diagnosis</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="KAPatientDiagnosis" asp-action="Index">Treatment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="KAPatient" asp-action="Index">Patient</a>
-                        </li>*@
-
-                        @if (User.IsInRole("administrators"))
-                        {
-                            <li class="dropdown">
-                                <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
-                                    Security<span class="caret"></span>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="text-dark" asp-controller="KARole" asp-action="Index">
-                                           Role Maintenance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="text-dark" asp-controller="KAUsers" asp-action="Index">
-                                         User Maintenance
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="text-dark" asp-controller="User" asp-action="ResetPassword">
-                                            Reset User Password
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="KAPatient" asp-action="Index">Personal Details</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="KAConcentrationUnit" asp-action="Index">Concentrations</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="KADiagnosisCategories" asp-action="Index">Diagnosis </a>
+                        </li>
                         }
+
+
+                        @* <li class="dropdown"> <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+            Security<span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a class="text-dark" asp-controller="KARole" asp-action="Index">
+                   Role Maintenance
+                </a>
+            </li>
+            <li>
+                <a class="text-dark" asp-controller="KAUsers" asp-action="Index">
+                 User Maintenance
+                </a>
+            </li>
+            <li>
+                <a class="text-dark" asp-controller="User" asp-action="ResetPassword">
+                    Reset User Password
+                </a>
+            </li>*@
+                        @*</ul>
+        </li>*@
+
 
                     </ul>
                 </div>
@@ -93,7 +108,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2019 <a href="mailto:aswamykarthik@gmail.com">Developed by Karthik </a>
+            &copy; 2019 <a href="mailto:aswamykarthik@gmail.com">Developed with passsion by Karthik - aswamykarthik@gmail.com </a>
                         <div class="float-right">
 
                             <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>&nbsp;&nbsp;
@@ -104,7 +119,7 @@
         </div>
     </footer>
 
-    <environment include="Development">
+    @*<environment include="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>
         <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
     </environment>
@@ -121,7 +136,7 @@
                 crossorigin="anonymous"
                 integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o">
         </script>
-    </environment>
+    </environment>*@
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @RenderSection("Scripts", required: false)

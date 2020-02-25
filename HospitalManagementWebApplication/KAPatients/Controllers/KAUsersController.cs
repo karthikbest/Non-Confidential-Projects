@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 namespace KAPatients.Controllers
 {
     [Authorize(Roles = "administrators")]
+
     public class KAUsersController : Controller
     {
 

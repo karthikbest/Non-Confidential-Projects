@@ -15,6 +15,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using KAPatients.Models;
 
+
 namespace KAPatients
 {
     public class Startup
@@ -29,6 +30,16 @@ namespace KAPatients
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<IdentityOptions>(options =>
+            {
+                options.Password.RequireDigit = false;
+                options.Password.RequiredLength = 5;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+
+                options.Password.RequireUppercase = false;
+            });
+
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.

@@ -5,7 +5,12 @@
 
 
 
-<div class="text-center">
-    <h1 class="display-4">Welcome to Hospital Management Application - Click Register / Login</h1>
+    <div class="text-center">
 
-</div>
+        @if (!User.Identity.IsAuthenticated)
+        {
+            <h3 class="display-4">Welcome - Click Register / Login to begin</h3>
+        }
+
+
+    </div>
