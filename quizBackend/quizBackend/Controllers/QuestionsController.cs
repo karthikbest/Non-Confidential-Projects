@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace quizBackend.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class QuestionsController : ControllerBase
+	[Produces("application/json")]
+    [Route("api/Questions")]
+    public class QuestionsController : Controller
     {
         readonly QuizContext context;
 
@@ -20,52 +20,42 @@ namespace quizBackend.Controllers
             this.context = context;
         }
 
-
-        // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<Question>> Get()
+        public IEnumerable<Models.Question> Get()
         {
             return context.Questions;
-
         }
 
-        // POST api/questions
-        [HttpPost]
-        public async Task<IActionResult> Post([FromBody] Question question)
+        [HttpGet("{quizId}")]
+        public IEnumerable<Models.Question> Get([FromRoute] int quizId)
         {
+            return context.Questions.Where(q => q.QuizId == quizId);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody]Models.Question question)
+        {
+            var quiz = context.Quiz.SingleOrDefault(q => q.ID == question.QuizId);
+
+            if (quiz == null)
+                return NotFound();
+
             context.Questions.Add(question);
-            Console.WriteLine(question.question);
             await context.SaveChangesAsync();
             return Ok(question);
-
-
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody]Question question)
+        public async Task<IActionResult> Put(int id, [FromBody]Models.Question question)
         {
-            if(id != question.id)
-            {
+            if (id != question.ID)
                 return BadRequest();
-            }
-
 
             context.Entry(question).State = EntityState.Modified;
 
             await context.SaveChangesAsync();
 
             return Ok(question);
-
-
-
-
-
         }
-
-
-
-
-
-
     }
 }

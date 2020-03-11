@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,9 +11,9 @@ using quizBackend.Models;
 
 namespace quizBackend.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class QuizzesController : ControllerBase
+   [Produces("application/json")]
+    [Route("api/Quizzes")]
+    public class QuizzesController : Controller
     {
         private readonly QuizContext _context;
 
@@ -22,8 +23,17 @@ namespace quizBackend.Controllers
         }
 
         // GET: api/Quizzes
+        [Authorize]
         [HttpGet]
         public IEnumerable<Quiz> GetQuiz()
+        {
+            var userId = HttpContext.User.Claims.First().Value;
+
+            return _context.Quiz.Where(q => q.OwnerId == userId);
+        }
+
+        [HttpGet("all")]
+        public IEnumerable<Quiz> GetAllQuizzes()
         {
             return _context.Quiz;
         }
@@ -37,7 +47,7 @@ namespace quizBackend.Controllers
                 return BadRequest(ModelState);
             }
 
-            var quiz = await _context.Quiz.FindAsync(id);
+            var quiz = await _context.Quiz.SingleOrDefaultAsync(m => m.ID == id);
 
             if (quiz == null)
             {
@@ -56,7 +66,7 @@ namespace quizBackend.Controllers
                 return BadRequest(ModelState);
             }
 
-            if (id != quiz.id)
+            if (id != quiz.ID)
             {
                 return BadRequest();
             }
@@ -83,6 +93,7 @@ namespace quizBackend.Controllers
         }
 
         // POST: api/Quizzes
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> PostQuiz([FromBody] Quiz quiz)
         {
@@ -91,10 +102,14 @@ namespace quizBackend.Controllers
                 return BadRequest(ModelState);
             }
 
+            var userId = HttpContext.User.Claims.First().Value;
+
+            quiz.OwnerId = userId;
+
             _context.Quiz.Add(quiz);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetQuiz", new { id = quiz.id }, quiz);
+            return CreatedAtAction("GetQuiz", new { id = quiz.ID }, quiz);
         }
 
         // DELETE: api/Quizzes/5
@@ -106,7 +121,7 @@ namespace quizBackend.Controllers
                 return BadRequest(ModelState);
             }
 
-            var quiz = await _context.Quiz.FindAsync(id);
+            var quiz = await _context.Quiz.SingleOrDefaultAsync(m => m.ID == id);
             if (quiz == null)
             {
                 return NotFound();
@@ -120,7 +135,7 @@ namespace quizBackend.Controllers
 
         private bool QuizExists(int id)
         {
-            return _context.Quiz.Any(e => e.id == id);
+            return _context.Quiz.Any(e => e.ID == id);
         }
     }
 }

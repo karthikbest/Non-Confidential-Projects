@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\quizBackend.csproj": {}
+    "C:\\Users\\Karthik_College\\Documents\\Non-confidential_Projects_Github\\Non-Confidential-Projects\\quizBackend\\quizBackend\\quizBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\quizBackend.csproj": {
+    "C:\\Users\\Karthik_College\\Documents\\Non-confidential_Projects_Github\\Non-Confidential-Projects\\quizBackend\\quizBackend\\quizBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\quizBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Karthik_College\\Documents\\Non-confidential_Projects_Github\\Non-Confidential-Projects\\quizBackend\\quizBackend\\quizBackend.csproj",
         "projectName": "quizBackend",
-        "projectPath": "C:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\quizBackend.csproj",
+        "projectPath": "C:\\Users\\Karthik_College\\Documents\\Non-confidential_Projects_Github\\Non-Confidential-Projects\\quizBackend\\quizBackend\\quizBackend.csproj",
         "packagesPath": "C:\\Users\\Karthik_College\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karthik_College\\Desktop\\New folder (2)\\COURSES\\projects\\Quiz\\PrivateReposQuiz\\quizBackend\\quizBackend\\obj\\",
+        "outputPath": "C:\\Users\\Karthik_College\\Documents\\Non-confidential_Projects_Github\\Non-Confidential-Projects\\quizBackend\\quizBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

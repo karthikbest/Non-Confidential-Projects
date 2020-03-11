@@ -7,14 +7,14 @@ namespace quizBackend.Models
 {
     public class Question
     {
-        public int id { get; set; }
-        public string question { get; set; }
-        public string correctAns { get; set; }
-        public string wrongAns1 { get; set; }
-        public string wrongAns2 { get; set; }
-        public string wrongAns3 { get; set; }
+        public int ID { get; set; }
+        public string Text { get; set; }
+        public string CorrectAnswer { get; set; }
+        public string Answer1 { get; set; }
+        public string Answer2 { get; set; }
+        public string Answer3 { get; set; }
 
-        public int quizId { get; set; }
+        public int QuizId { get; set; }
 
     }
 }
