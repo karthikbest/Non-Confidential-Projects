@@ -1,0 +1,14 @@
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\bin\Debug\mtJoeFruitStand.exe.config
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\bin\Debug\mtJoeFruitStand.exe
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\bin\Debug\mtJoeFruitStand.pdb
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.csprojAssemblyReference.cache
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\MainWindow.g.cs
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\App.g.cs
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand_MarkupCompile.cache
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand_MarkupCompile.lref
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\MainWindow.baml
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.g.resources
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.Properties.Resources.resources
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.csproj.GenerateResource.cache
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.exe
+C:\Users\Karthik_College\source\repos\mtJoeFruitStand\mtJoeFruitStand\obj\Debug\mtJoeFruitStand.pdb
