@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Check if a Number is Prime/1.0.0": {
+        "runtime": {
+          "Check if a Number is Prime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check if a Number is Prime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

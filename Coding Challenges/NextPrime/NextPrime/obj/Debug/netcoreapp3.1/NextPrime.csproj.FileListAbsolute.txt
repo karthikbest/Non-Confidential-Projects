@@ -1,0 +1,11 @@
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.exe
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.deps.json
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.runtimeconfig.json
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.runtimeconfig.dev.json
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.dll
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\bin\Debug\netcoreapp3.1\NextPrime.pdb
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\obj\Debug\netcoreapp3.1\NextPrime.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\obj\Debug\netcoreapp3.1\NextPrime.AssemblyInfoInputs.cache
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\obj\Debug\netcoreapp3.1\NextPrime.AssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\obj\Debug\netcoreapp3.1\NextPrime.dll
+C:\Users\Karthik_College\Desktop\C#Algo\NextPrime\NextPrime\obj\Debug\netcoreapp3.1\NextPrime.pdb

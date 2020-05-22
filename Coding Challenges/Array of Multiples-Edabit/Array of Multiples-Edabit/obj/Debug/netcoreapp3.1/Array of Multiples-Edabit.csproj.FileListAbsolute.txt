@@ -1,0 +1,11 @@
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.exe
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.deps.json
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.runtimeconfig.json
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.runtimeconfig.dev.json
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.dll
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\bin\Debug\netcoreapp3.1\Array of Multiples-Edabit.pdb
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\obj\Debug\netcoreapp3.1\Array of Multiples-Edabit.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\obj\Debug\netcoreapp3.1\Array of Multiples-Edabit.AssemblyInfoInputs.cache
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\obj\Debug\netcoreapp3.1\Array of Multiples-Edabit.AssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\obj\Debug\netcoreapp3.1\Array of Multiples-Edabit.dll
+C:\Users\Karthik_College\Desktop\C#Algo\Array of Multiples-Edabit\Array of Multiples-Edabit\obj\Debug\netcoreapp3.1\Array of Multiples-Edabit.pdb

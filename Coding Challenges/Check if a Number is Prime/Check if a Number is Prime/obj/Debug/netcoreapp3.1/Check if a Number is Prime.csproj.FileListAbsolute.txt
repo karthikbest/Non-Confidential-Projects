@@ -1,0 +1,11 @@
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.exe
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.deps.json
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.runtimeconfig.json
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.runtimeconfig.dev.json
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.dll
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\bin\Debug\netcoreapp3.1\Check if a Number is Prime.pdb
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\obj\Debug\netcoreapp3.1\Check if a Number is Prime.csprojAssemblyReference.cache
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\obj\Debug\netcoreapp3.1\Check if a Number is Prime.AssemblyInfoInputs.cache
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\obj\Debug\netcoreapp3.1\Check if a Number is Prime.AssemblyInfo.cs
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\obj\Debug\netcoreapp3.1\Check if a Number is Prime.dll
+C:\Users\Karthik_College\Desktop\C#Algo\Check if a Number is Prime\Check if a Number is Prime\obj\Debug\netcoreapp3.1\Check if a Number is Prime.pdb
