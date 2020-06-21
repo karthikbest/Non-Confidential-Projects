@@ -15,10 +15,6 @@ ValidatePIN("") ➞ false
 Notes
 Some test cases contain special characters.
 Empty strings must return false.
-
-Coding Challenge from Edabit.com
-
-Solved by Karthik Appaswamy
 */
 namespace CodingChallenge
 {
@@ -28,7 +24,7 @@ namespace CodingChallenge
         {
             Console.WriteLine("Please punch in your ATM pin");
             string inputString = Console.ReadLine();
-            Console.WriteLine(validatePIN(inputString));
+            Console.WriteLine(validatePIN(inputString)? "The PIN is valid" : "The PIN is not valid");
             Main();
             
         }
