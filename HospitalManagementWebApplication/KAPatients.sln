@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KAPatients", "KAPatients\KAPatients.csproj", "{114A6FA9-400E-4D74-B140-1C43FD692D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAClassLibrary", "KAClassLibrary\KAClassLibrary.csproj", "{7BECC11B-093E-48DD-8BB7-F327B6299A9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KAClassLibrary", "KAClassLibrary\KAClassLibrary.csproj", "{7BECC11B-093E-48DD-8BB7-F327B6299A9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

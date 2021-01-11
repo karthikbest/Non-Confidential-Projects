@@ -49,7 +49,7 @@
     </div>
     <div class="col-md-6 col-md-offset-2">
         <section>
-            <h4>Hello Recruiter</h4>
+            <h4>Note</h4>
             <hr />
             @*@{
             if ((Model.ExternalLogins?.Count ?? 0) == 0)
@@ -76,26 +76,26 @@
             }
         }*@
 
-            To use the web-app as "administrator", Please login using following credentials:<br />
-                                                                                    <strong>
-                                                                                        Email: admin@kh.com
-                                                                                        Password: admin123
-                                                                                    </strong>
-           <br /> <br />
+            To try using this web-app as "administrator", Please login using following credentials:<br />
+            <strong>
+                Email: admin@kh.com
+                Password: admin123
+            </strong>
+            <br /> <br />
 
-            To use the web-app as "user", Please login using following credentials:<br />
-                                                                           <strong>
-                                                                               Email: user@kh.com
-                                                                               Password: user123
-                                                                           </strong>
-           <br /> <br />
+            To try using this web-app as "user", Please login using following credentials:<br />
+            <strong>
+                Email: user@kh.com
+                Password: user123
+            </strong>
+            <br /> <br />
             Please note: "user" will not have access to Admin Panel.
             <br /><br />
             Alternatively, You can also <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl"> register </a> with any email and use the web app as a 'User'.
 
 
 
-</section>
+        </section>
     </div>
 </div>
 

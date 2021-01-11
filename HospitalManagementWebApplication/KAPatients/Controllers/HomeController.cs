@@ -5,11 +5,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using KAPatients.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace KAPatients.Controllers
 {
     public class HomeController : Controller
     {
+        [Authorize]
         //Returns the view for index
         public IActionResult Index()
         {

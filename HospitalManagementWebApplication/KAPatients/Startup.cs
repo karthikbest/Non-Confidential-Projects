@@ -91,6 +91,7 @@ namespace KAPatients
 
             app.UseAuthentication();
 
+
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -98,7 +99,9 @@ namespace KAPatients
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            
+
+
+
         }
     }
 }
